@@ -51,7 +51,7 @@ export const SNAKE_TASKS: Task[] = [
     id: 2,
     title: 'Bug Hunting Quiz',
     description: 'Spot the errors and bugs in these JavaScript and CSS code snippets. A keen eye for detail is required to escape this snake!',
-    link: 'https://www.toptal.com/developers/javascript-and-css-quiz'
+    link: 'https://bug-hunt-nu.vercel.app/'
   },
   {
     id: 3,
