@@ -69,7 +69,7 @@ export const SNAKE_TASKS: Task[] = [
     id: 5,
     title: 'Tech Word Scramble',
     description: 'Unscramble the letters to form words related to technology. A tricky challenge that tests your vocabulary and problem-solving.',
-    link: 'https://www.proprofs.com/games/word-scramble/tech-terms/'
+    link: 'https://word-scramble-jade.vercel.app/'
   },
   {
     id: 6,
