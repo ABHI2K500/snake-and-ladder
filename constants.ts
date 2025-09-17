@@ -18,7 +18,7 @@ export const LADDER_TASKS: Task[] = [
     id: 3,
     title: 'Code Identity',
     description: 'Can you identify the programming language from just a small snippet of code? Test your pattern recognition skills.',
-    link: 'https://www.code-identity.vercel.app'
+    link: 'https://code-identity.vercel.app/'
   },
   {
     id: 4,
