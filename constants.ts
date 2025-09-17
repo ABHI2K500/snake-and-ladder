@@ -45,7 +45,7 @@ export const SNAKE_TASKS: Task[] = [
     id: 1,
     title: 'Tech Hangman',
     description: 'A classic game of Hangman, but with a twist. All the words are common computer and technology terms. Guess carefully!',
-    link: 'https://www.quizzes.cc/computer-terms-hangman-game'
+    link: 'https://hang-man-mauve.vercel.app/'
   },
   {
     id: 2,
